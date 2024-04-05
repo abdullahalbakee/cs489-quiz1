@@ -1,0 +1,7 @@
+- The user should be able to create contacts.
+- The contact should have first name, last name, company, job title, phone numbers and email addresses fields.
+- The user should be able to search contacts.
+- The user should be albe to update contacts.
+- The user should be able to delete contacts.
+- The user should be able to merge duplicate contacts.
+
